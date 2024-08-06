@@ -6,7 +6,6 @@
 
 - Augusto Barcelos Barros – RM: 98078
 - Gabriel Souza de Queiroz – RM: 98570
-- Gabriela Zanotto Rodrigues – RM: 551629
 - Lucas Pinheiro de Melo – RM: 97707
 - Mel Maia Rodrigues – RM: 98266
 
